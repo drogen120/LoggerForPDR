@@ -1,0 +1,195 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gradle/
+* .gradle/1.12/
+* .gradle/1.12/taskArtifacts/
+* .gradle/1.12/taskArtifacts/cache.properties
+* .gradle/1.12/taskArtifacts/cache.properties.lock
+* .gradle/1.12/taskArtifacts/fileHashes.bin
+* .gradle/1.12/taskArtifacts/fileSnapshots.bin
+* .gradle/1.12/taskArtifacts/outputFileStates.bin
+* .gradle/1.12/taskArtifacts/taskArtifacts.bin
+* .gradle/2.2.1/
+* .gradle/2.2.1/taskArtifacts/
+* .gradle/2.2.1/taskArtifacts/cache.properties
+* .gradle/2.2.1/taskArtifacts/cache.properties.lock
+* .gradle/2.2.1/taskArtifacts/fileHashes.bin
+* .gradle/2.2.1/taskArtifacts/fileSnapshots.bin
+* .gradle/2.2.1/taskArtifacts/outputFileStates.bin
+* .gradle/2.2.1/taskArtifacts/taskArtifacts.bin
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/gradle.xml
+* .idea/libraries/
+* .idea/libraries/android_support_v4.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/vcs.xml
+* .idea/workspace (thanatos's conflicted copy 2015-07-05).xml
+* .idea/workspace.xml
+* LoggerForPDR-h.iml
+* LoggerForPDR.iml
+* build/
+* build/generated/
+* build/generated/source/
+* build/generated/source/buildConfig/
+* build/generated/source/buildConfig/debug/
+* build/generated/source/buildConfig/debug/com/
+* build/generated/source/buildConfig/debug/com/kakiuchi/
+* build/generated/source/buildConfig/debug/com/kakiuchi/loggerforpdr/
+* build/generated/source/buildConfig/debug/com/kakiuchi/loggerforpdr/BuildConfig.java
+* build/generated/source/buildConfig/test/
+* build/generated/source/buildConfig/test/debug/
+* build/generated/source/buildConfig/test/debug/com/
+* build/generated/source/buildConfig/test/debug/com/kakiuchi/
+* build/generated/source/buildConfig/test/debug/com/kakiuchi/loggerforpdr/
+* build/generated/source/buildConfig/test/debug/com/kakiuchi/loggerforpdr/test/
+* build/generated/source/buildConfig/test/debug/com/kakiuchi/loggerforpdr/test/BuildConfig.java
+* build/generated/source/r/
+* build/generated/source/r/debug/
+* build/generated/source/r/debug/com/
+* build/generated/source/r/debug/com/kakiuchi/
+* build/generated/source/r/debug/com/kakiuchi/loggerforpdr/
+* build/generated/source/r/debug/com/kakiuchi/loggerforpdr/R.java
+* build/intermediates/
+* build/intermediates/classes/
+* build/intermediates/classes/debug/
+* build/intermediates/classes/debug/LoggerForPDR.apk
+* build/intermediates/classes/debug/com/
+* build/intermediates/classes/debug/com/kakiuchi/
+* build/intermediates/classes/debug/com/kakiuchi/loggerforpdr/
+* build/intermediates/classes/debug/com/kakiuchi/loggerforpdr/BuildConfig.class
+* build/intermediates/classes/debug/com/kakiuchi/loggerforpdr/LoggerForPDR.class
+* build/intermediates/classes/debug/com/kakiuchi/loggerforpdr/R$array.class
+* build/intermediates/classes/debug/com/kakiuchi/loggerforpdr/R$attr.class
+* build/intermediates/classes/debug/com/kakiuchi/loggerforpdr/R$drawable.class
+* build/intermediates/classes/debug/com/kakiuchi/loggerforpdr/R$id.class
+* build/intermediates/classes/debug/com/kakiuchi/loggerforpdr/R$layout.class
+* build/intermediates/classes/debug/com/kakiuchi/loggerforpdr/R$menu.class
+* build/intermediates/classes/debug/com/kakiuchi/loggerforpdr/R$string.class
+* build/intermediates/classes/debug/com/kakiuchi/loggerforpdr/R$style.class
+* build/intermediates/classes/debug/com/kakiuchi/loggerforpdr/R.class
+* build/intermediates/dex-cache/
+* build/intermediates/dex-cache/cache.xml
+* build/intermediates/gradle_project_sync_data.bin
+* build/intermediates/incremental/
+* build/intermediates/incremental/aidl/
+* build/intermediates/incremental/aidl/debug/
+* build/intermediates/incremental/aidl/debug/dependency.store
+* build/intermediates/incremental/aidl/test/
+* build/intermediates/incremental/aidl/test/debug/
+* build/intermediates/incremental/aidl/test/debug/dependency.store
+* build/intermediates/incremental/mergeAssets/
+* build/intermediates/incremental/mergeAssets/debug/
+* build/intermediates/incremental/mergeAssets/debug/merger.xml
+* build/intermediates/incremental/mergeAssets/test/
+* build/intermediates/incremental/mergeAssets/test/debug/
+* build/intermediates/incremental/mergeAssets/test/debug/merger.xml
+* build/intermediates/incremental/mergeResources/
+* build/intermediates/incremental/mergeResources/debug/
+* build/intermediates/incremental/mergeResources/debug/merger.xml
+* build/intermediates/incremental/mergeResources/test/
+* build/intermediates/incremental/mergeResources/test/debug/
+* build/intermediates/incremental/mergeResources/test/debug/merger.xml
+* build/intermediates/libs/
+* build/intermediates/libs/LoggerForPDR-debug-test.ap_
+* build/intermediates/libs/LoggerForPDR-debug.ap_
+* build/intermediates/manifests/
+* build/intermediates/manifests/debug/
+* build/intermediates/manifests/debug/AndroidManifest.xml
+* build/intermediates/manifests/full/
+* build/intermediates/manifests/full/debug/
+* build/intermediates/manifests/full/debug/AndroidManifest.xml
+* build/intermediates/manifests/test/
+* build/intermediates/manifests/test/debug/
+* build/intermediates/manifests/test/debug/AndroidManifest.xml
+* build/intermediates/model_data (m-pc's conflicted copy 2014-12-25).bin
+* build/intermediates/model_data.bin
+* build/intermediates/pre-dexed/
+* build/intermediates/pre-dexed/debug/
+* build/intermediates/pre-dexed/debug/android-support-v4-727aed7fa9ddb5ecb00f510c8346546cacfa4478.jar
+* build/intermediates/res/
+* build/intermediates/res/debug/
+* build/intermediates/res/debug/drawable-hdpi-v4/
+* build/intermediates/res/debug/drawable-hdpi-v4/ic_action_search.png
+* build/intermediates/res/debug/drawable-hdpi-v4/ic_launcher.png
+* build/intermediates/res/debug/drawable-ldpi-v4/
+* build/intermediates/res/debug/drawable-ldpi-v4/ic_launcher.png
+* build/intermediates/res/debug/drawable-mdpi-v4/
+* build/intermediates/res/debug/drawable-mdpi-v4/ic_action_search.png
+* build/intermediates/res/debug/drawable-mdpi-v4/ic_launcher.png
+* build/intermediates/res/debug/drawable-xhdpi-v4/
+* build/intermediates/res/debug/drawable-xhdpi-v4/ic_action_search.png
+* build/intermediates/res/debug/drawable-xhdpi-v4/ic_launcher.png
+* build/intermediates/res/debug/layout/
+* build/intermediates/res/debug/layout/activity_logger_for_pdr.xml
+* build/intermediates/res/debug/menu/
+* build/intermediates/res/debug/menu/activity_logger_for_pdr.xml
+* build/intermediates/res/debug/values/
+* build/intermediates/res/debug/values/values.xml
+* build/intermediates/res/resources-debug-test.ap_
+* build/intermediates/res/resources-debug.ap_
+* build/intermediates/tmp/
+* build/intermediates/tmp/dex/
+* build/intermediates/tmp/dex/debug/
+* build/intermediates/tmp/dex/debug/inputList.txt
+* build/outputs/
+* build/outputs/apk/
+* build/outputs/apk/LoggerForPDR-debug-unaligned.apk
+* build/outputs/apk/LoggerForPDR-debug.apk
+* build/outputs/apk/manifest-merger-debug-report.txt
+* gradle/
+* gradle/wrapper/
+* gradle/wrapper/gradle-wrapper.jar
+* gradle/wrapper/gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
